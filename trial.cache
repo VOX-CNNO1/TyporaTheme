@@ -7,10 +7,11 @@ email  lwoykqf445@rgzx.tmmad.com
 last_checkin  2025-03-16 00:39:24.693807+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  83.23M  1.814G  2025-03-16 20:16:52+08:00  (剩余 1.733G 15:07:00.700146)
+sub_info  84.87M  1.814G  2025-03-16 20:16:52+08:00  (剩余 1.732G 14:43:35.145622)
 sub_url  https://network.ayucloud.nl/link/sL0MJ9DDzUvAy2Nz?clash=1
 time  2025-03-15 20:16:53.782251+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 
