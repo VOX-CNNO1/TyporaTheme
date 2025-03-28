@@ -7,11 +7,11 @@ email  etkqfjlsq658@qwer.usphms.shop
 last_checkin  2025-03-28 06:09:52.278343+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  234.1M  1.159G  2025-03-29 06:09:51+08:00  (剩余 952.9M 2:36:59.011479)
+sub_info  237.7M  1.159G  2025-03-29 06:09:51+08:00  (剩余 949.3M 1:58:00.188069)
 sub_url  https://network.ayucloud.nl/link/80NbpGe2o1c4u94y?clash=1
 time  2025-03-28 06:09:53.263486+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
