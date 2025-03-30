@@ -7,11 +7,11 @@ email  psaczctul308@guerrillamail.de
 last_checkin  2025-03-30 16:39:40.799336+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  144.9M  1.16G  2025-03-31 16:39:40+08:00  (剩余 1.019G 12:28:53.961545)
+sub_info  147.2M  1.16G  2025-03-31 16:39:40+08:00  (剩余 1.016G 12:03:42.468715)
 sub_url  https://network.ayucloud.nl/link/4z84fZcYgymtKwqx?clash=1
 time  2025-03-30 16:39:41.784384+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
