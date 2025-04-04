@@ -7,12 +7,12 @@ email  rgxtmww710@jkb.tmmad.com
 last_checkin  2025-04-04 01:09:53.568328+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  237.9M  1.25G  2025-04-05 01:09:53+08:00  (剩余 1.018G 0:26:04.796532)
+sub_info  242.4M  1.25G  2025-04-05 01:09:53+08:00  (剩余 1.013G -1 day, 23:59:54.749188)
 sub_url  https://network.ayucloud.nl/link/B7aKYJuARhStqW7o?clash=1
 time  2025-04-04 01:09:54.520782+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(stbhhqpe524@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(osynztg632@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
