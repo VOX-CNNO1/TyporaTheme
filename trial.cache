@@ -7,10 +7,11 @@ email  emcbuptti813@guerrillamail.biz
 last_checkin  2025-04-15 07:34:46.423725+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  116.9M  1.248G  2025-04-16 07:34:46+08:00  (剩余 1.134G 7:23:22.380880)
+sub_info  119.6M  1.248G  2025-04-16 07:34:46+08:00  (剩余 1.131G 6:51:24.089370)
 sub_url  https://network.ayucloud.nl/link/rS8bySjCT35iyMP5?clash=1
 time  2025-04-15 07:34:47.391876+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
