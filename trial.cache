@@ -7,11 +7,11 @@ email  pvdgonxbw499@vapesculpt.com
 last_checkin  2025-05-03 04:12:50.668891+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  245.4M  1.139G  2025-05-04 04:12:50+08:00  (剩余 920.6M 3:27:04.957822)
+sub_info  247.1M  1.139G  2025-05-04 04:12:50+08:00  (剩余 918.9M 3:04:19.520207)
 sub_url  https://network.ayucloud.nl/link/CJmzuP6PFqvOWzq2?clash=1
 time  2025-05-03 04:12:51.606184+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe0a90c7df0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
