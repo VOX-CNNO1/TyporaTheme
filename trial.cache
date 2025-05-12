@@ -7,11 +7,11 @@ email  hjesums473@bookmorpho.cfd
 last_checkin  2025-05-12 13:40:45.075947+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.119G  2025-05-13 13:40:44+08:00  (剩余 1.119G 12:02:12.749718)
+sub_info  0B  1.119G  2025-05-13 13:40:44+08:00  (剩余 1.119G 11:25:15.482169)
 sub_url  https://network.ayucloud.nl/link/BWJodpZ2NesAoipw?clash=1
 time  2025-05-12 13:40:46.070168+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
