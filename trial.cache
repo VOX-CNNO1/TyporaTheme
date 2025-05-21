@@ -7,11 +7,12 @@ email  addqzyvc512@femailtor.com
 last_checkin  2025-05-21 02:47:34.369731+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.263G  2025-05-22 02:47:34+08:00  (剩余 1.263G 1:09:05.681783)
+sub_info  0B  1.263G  2025-05-22 02:47:34+08:00  (剩余 1.263G 0:31:40.834147)
 sub_url  https://network.ayucloud.nl/link/9Erjkw2McTHartgO?clash=1
 time  2025-05-21 02:47:35.690888+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(kulgulyh759@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
