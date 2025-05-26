@@ -11,6 +11,7 @@ sub_info  0B  1.211G  2025-05-27 06:41:35+08:00  (剩余 1.211G 14:20:07.739168)
 sub_url  https://network.ayucloud.nl/link/bbJqrdMT7rwR7NaL?clash=1
 time  2025-05-26 06:41:36.381890+08:00
 type  sspanel
+更新旧订阅失败  _get_sc_config_url: 获取订阅转换配置链接失败: {'message': "We couldn't respond to your request in time. Sorry about that. Please try resubmitting your request and contact us if the problem persists."}
 
 [qlgq.top]
 
