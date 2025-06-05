@@ -7,11 +7,11 @@ email  hvcpzhrax906@oakon.com
 last_checkin  2025-06-04 19:10:42.031649+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.188G  2025-06-05 19:10:41+08:00  (剩余 1.188G 4:21:11.436788)
+sub_info  0B  1.188G  2025-06-05 19:10:41+08:00  (剩余 1.188G 3:58:57.316296)
 sub_url  https://network.ayucloud.nl/link/HFyYsZaeXSceVdy5?clash=1
 time  2025-06-04 19:10:42.993886+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
